@@ -5,7 +5,7 @@
 
 **Mi nombre es _Nadia_, tengo 17 años y soy de Argentina** 🇦🇷
 **Actualmente no estoy ejerciendo algun rol profesional, pero tengo mucho conocimiento como programadora _Junior_** 💻
-**Desde hace mas de 3 años que estoy interesada y fascinada por el mundo de la programacion y la ciberseguridad. A traves de todo esto, me he convertido en una desarrolladora de _Python_ y bases de datos con _SQL_. Primeramente he ganado experiencia de forma autodidacta, experimentando, conociendo personas a traves de foros y luego aprendiendo sola por mi cuenta. Aunque tengo certificados que corroboran mis aprendizajes.** 
+**Desde hace mas de 3 años que estoy interesada y fascinada por el mundo de la programacion y la ciberseguridad. A traves de todo esto, me he convertido en una desarrolladora de _Python_ y bases de datos con _SQL_. Siendo estos mi punto principal. Primeramente he ganado experiencia de forma autodidacta, experimentando, conociendo personas a traves de foros y luego aprendiendo sola por mi cuenta. Aunque tengo certificados que corroboran mis aprendizajes.** 
 
 ___
 
